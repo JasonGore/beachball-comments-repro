@@ -1,8 +1,0 @@
-{
-    "type": "patch",
-    "comment": "This package2 test comment should be absorbed into the changelog.",
-    "packageName": "@beachball-comments-repro/package2",
-    "email": "jagore@microsoft.com",
-    "dependentChangeType": "patch"
-  }
-  

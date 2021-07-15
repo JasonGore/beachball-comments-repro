@@ -1,0 +1,15 @@
+{
+    "name": "beachball-comments-repro",
+    "version": "1.0.0",
+    "license": "UNLICENSED",
+    "workspaces": {
+        "packages": [
+          "packages/*"
+        ]
+    },
+    "private": true,
+    "repository": {
+      "type": "git"
+    }
+  }
+  

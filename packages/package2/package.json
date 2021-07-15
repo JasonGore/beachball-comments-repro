@@ -1,13 +1,13 @@
 {
-    "name": "@beachball-comments-repro/package2",
-    "version": "0.0.1",
-    "description": "A simple repro.",
-    "beachball": {
-      "disallowedChangeTypes": [
-        "major"
-      ]
-    },
-    "dependencies": {
-      "@beachball-comments-repro/package1": "^0.0.1"
-    }
+  "name": "@beachball-comments-repro/package2",
+  "version": "0.0.2",
+  "description": "A simple repro.",
+  "beachball": {
+    "disallowedChangeTypes": [
+      "major"
+    ]
+  },
+  "dependencies": {
+    "@beachball-comments-repro/package1": "^0.0.2"
+  }
 }

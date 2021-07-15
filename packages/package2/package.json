@@ -6,6 +6,8 @@
       "disallowedChangeTypes": [
         "major"
       ]
+    },
+    "dependencies": {
+      "@beachball-comments-repro/package1": "^0.0.1"
     }
 }
-  

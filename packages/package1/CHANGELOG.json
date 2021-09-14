@@ -1,0 +1,20 @@
+{
+  "name": "@beachball-comments-repro/package1",
+  "entries": [
+    {
+      "date": "Tue, 14 Sep 2021 16:03:46 GMT",
+      "tag": "@beachball-comments-repro/package1_v0.0.2",
+      "version": "0.0.2",
+      "comments": {
+        "patch": [
+          {
+            "author": "jagore@microsoft.com",
+            "package": "@beachball-comments-repro/package1",
+            "comment": "This package1 test comment should be absorbed into the changelog.",
+            "commit": "db1d3ecc2f5ec9d9e74c5e1360a8009e8e5d8c6e"
+          }
+        ]
+      }
+    }
+  ]
+}
